@@ -1,0 +1,3 @@
+files:
+  - source: stenzle_reborn/localization/en.yaml 
+    translation: /**/stenzle_reborn/localization/%locale_with_underscore%.yaml
