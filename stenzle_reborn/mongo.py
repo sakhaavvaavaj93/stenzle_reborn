@@ -2,7 +2,6 @@
 import asyncio
 import sys
 
-from stenzle_reborn import log
 from motor import motor_asyncio
 from stenzle_reborn import MONGO_DB_URI 
 from pymongo import MongoClient
