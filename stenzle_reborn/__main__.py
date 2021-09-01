@@ -81,7 +81,7 @@ PM_START_TEXT = """
 buttons = [
     [
         InlineKeyboardButton(
-            text="➕️ ADD stenzle_rebornʏᴏᴜʀʀ ɢʀᴏᴜᴘ ➕️", url="t.me/stenzle_rebornbot?startgroup=true"),
+            text="➕️ᴀᴅᴅ ꜱᴛᴇɴᴢʟᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ➕️", url="t.me/stenzle_rebornbot?startgroup=true"),
     ],
     [
         InlineKeyboardButton(text="ᴀʙᴏᴜᴛ", callback_data="amelia_"),
@@ -102,7 +102,7 @@ HELP_STRINGS = """
 amelia_IMG = "https://telegra.ph/file/c2501751eab062f45f59b.jpg"
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
- You can support the project via [Paypal](#) or by contacting @itsmelegend\
+ You can support the project via [Paypal](#) or by contacting \
  Supporting isnt always financial! \
  Those who cannot provide monetary support are welcome to help us develop the bot at ."""
 
